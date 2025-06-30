@@ -1,0 +1,7 @@
+&DOS
+outdir = './tmp/'
+prefix = 'Si'
+fildos = 'Si.dos'
+emin   = -10.0,
+emax   = 15.0,
+/
